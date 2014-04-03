@@ -1,0 +1,1 @@
+javaw -classpath "swtapp.jar;lib/*;win64/*" sample.App
